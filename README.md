@@ -1,9 +1,9 @@
 #activiti-example
-包括流程的启动、拒绝、加签、主动撤销、召回、参看流程图等方法。
+包括流程的启动、拒绝、加签、主动撤销、召回、参看流程图等示例方法。
 
 官方参考文档：http://activiti.org/userguide/
 
-activiti的常用service如下：
+#activiti的常用service如下：
 
 repositoryService:跟流程的配置文件处理有关
 
